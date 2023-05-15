@@ -18,4 +18,10 @@ export const deleteProduct = (id:number) => productsAPI.delete(`/products/${id}`
 
 export const updateProduct = (producto:any) => productsAPI.put(`/products/${producto.id}`, producto)
 
+
+export const getProductsCart = async ( ) => {
+  const res =  await productsAPI.get('/shopping')
+  return res.data
+};
+
 export const createItemShoppingCart = (producto: any) => productsAPI.post('/shopping', producto)
