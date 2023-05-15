@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "MacBook Air",
+      "descripcion": "Laptop ultraligera y potente de Apple.",
+      "marca": "Apple",
+      "precio": 999
+    },
+    {
+      "id": 2,
+      "nombre": "iPhone 13",
+      "descripcion": "Smartphone de última generación de Apple con cámara mejorada.",
+      "marca": "Apple",
+      "precio": 799
+    },
+    {
+      "id": 3,
+      "nombre": "iPad Pro",
+      "descripcion": "Tablet de alta gama de Apple con pantalla Liquid Retina XDR.",
+      "marca": "Apple",
+      "precio": 799
+    },
+    {
+      "id": 4,
+      "nombre": "AirPods Max",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido de Apple.",
+      "marca": "Apple",
+      "precio": 549
+    },
+    {
+      "id": 5,
+      "nombre": "Galaxy S21",
+      "descripcion": "Smartphone de alta gama de Samsung con pantalla Dynamic AMOLED 2X.",
+      "marca": "Samsung",
+      "precio": 799
+    },
+    {
+      "id": 6,
+      "nombre": "Galaxy Book Pro",
+      "descripcion": "Laptop ultraligera de Samsung con pantalla AMOLED.",
+      "marca": "Samsung",
+      "precio": 1099
+    },
+    {
+      "id": 7,
+      "nombre": "Galaxy Tab S7+",
+      "descripcion": "Tablet de alta gama de Samsung con pantalla Super AMOLED.",
+      "marca": "Samsung",
+      "precio": 849
+    },
+    {
+      "id": 8,
+      "nombre": "Galaxy Buds Pro",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido de Samsung.",
+      "marca": "Samsung",
+      "precio": 199
+    },
+    {
+      "id": 9,
+      "nombre": "Pixel 6 Pro",
+      "descripcion": "Smartphone de última generación de Google con cámara mejorada.",
+      "marca": "Google",
+      "precio": 899
+    },
+    {
+      "id": 10,
+      "nombre": "Pixelbook Go",
+      "descripcion": "Laptop ultraligera de Google con pantalla táctil.",
+      "marca": "Google",
+      "precio": 649
+    },
+    {
+      "id": 11,
+      "nombre": "Pixel Slate",
+      "descripcion": "Tablet de alta gama de Google con pantalla Molecular.",
+      "marca": "Google",
+      "precio": 799
+    },
+    {
+      "id": 12,
+      "nombre": "Pixel Buds A-Series",
+      "descripcion": "Auriculares inalámbricos de Google con control táctil.",
+      "marca": "Google",
+      "precio": 99
+    },
+    {
+      "id": 13,
+      "nombre": "Surface Pro 7",
+      "descripcion": "Laptop 2 en 1 de alta gama de Microsoft con pantalla táctil.",
+      "marca": "Microsoft",
+      "precio": 899
+    },
+    {
+      "id": 14,
+      "nombre": "Surface Laptop 4",
+      "descripcion": "Laptop ultraligera de Microsoft con pantalla táctil y bisagra de 180 grados.",
+      "marca": "Microsoft",
+      "precio": 1299
+    },
+    {
+      "id": 15,
+      "nombre": "Surface Pro X",
+      "descripcion": "Tablet de alta gama de Microsoft con procesador ARM y pantalla táctil.",
+      "marca": "Microsoft",
+      "precio": 999
+    },
+    {
+      "id": 16,
+      "nombre": "Surface Headphones 2",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido de Microsoft.",
+      "marca": "Microsoft",
+      "precio": 249
+    },
+    {
+      "id": 17,
+      "nombre": "PlayStation 5",
+      "descripcion": "Consola de última generación de Sony con SSD de alta velocidad.",
+      "marca": "Sony",
+      "precio": 499
+    },
+    {
+      "id": 18,
+      "nombre": "Sony Alpha A7 III",
+      "descripcion": "Cámara digital sin espejo de alta gama de Sony con sensor full-frame.",
+      "marca": "Sony",
+      "precio": 2199
+    },
+    {
+      "id": 19,
+      "nombre": "Sony WH-1000XM4",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido de Sony.",
+      "marca": "Sony",
+      "precio": 349
+    },
+    {
+      "id": 20,
+      "nombre": "Sony SRS-XB33",
+      "descripcion": "Altavoz Bluetooth portátil de Sony con iluminación LED.",
+      "marca": "Sony",
+      "precio": 149
+    }
+  ],
+  "shopping": [
+    {
+      "nombre": "Galaxy S21",
+      "descripcion": "Smartphone de alta gama de Samsung con pantalla Dynamic AMOLED 2X.",
+      "marca": "Samsung",
+      "precio": 799,
+      "id": 5
+    },
+    {
+      "nombre": "Pixel 6 Pro",
+      "descripcion": "Smartphone de última generación de Google con cámara mejorada.",
+      "marca": "Google",
+      "precio": 899,
+      "id": 9
+    },
+    {
+      "nombre": "Pixelbook Go",
+      "descripcion": "Laptop ultraligera de Google con pantalla táctil.",
+      "marca": "Google",
+      "precio": 649,
+      "id": 10
+    }
+  ]
+}
